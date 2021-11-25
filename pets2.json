@@ -1,0 +1,29 @@
+[
+    {
+        "petID": 1,
+        "name": "Five",
+        "age": 2,
+        "species": "Cat",
+        "color": "Black",
+        "hobby": "Sleep",
+        "ownerID": 104
+    },
+    {
+        "petID": 2,
+        "name": "Charlie",
+        "age": 3,
+        "species": "Dog",
+        "color": "White",
+        "hobby": "Run",
+        "ownerID": 105
+    },
+    {
+        "petID": 3,
+        "name": "Buddy",
+        "age": 5,
+        "species": "Parrot",
+        "color": "Rainbow",
+        "hobby": "Talk",
+        "ownerID": 106
+    }
+]
